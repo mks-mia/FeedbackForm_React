@@ -56,6 +56,11 @@ nav{
     background-color: #d94a77;
   }
   
+  #rating{
+    margin-left: 10px;
+    margin-bottom: 15px;
+  }
+
   /* Media query for smaller screens */
   @media only screen and (max-width: 600px) {
     .feedback-form {
