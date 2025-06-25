@@ -14,7 +14,7 @@ This is a simple and interactive **Feedback Form** built with React. It is about
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - React (Functional components with hooks)
 - CSS for styling (via `FeedbackForm.css`)
